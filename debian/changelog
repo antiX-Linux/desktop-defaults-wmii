@@ -1,0 +1,6 @@
+desktop-defaults-wmii-antix (0.1.0) unstable; urgency=low
+ 
+  * Better modularisation.
+  * Initial release.
+
+ -- anticapitalista <antiX@operamail.com>  Mon, 16 Dec 2013 14:50:00 +0200
